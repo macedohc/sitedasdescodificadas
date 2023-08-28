@@ -1,4 +1,4 @@
-<img src = "descodificadas.png" width = "200px" align = "right">
+<img src = "11zon_cropped (5).png" width = "200px" align = "right">
 
 ### Site das Descodificadas 🌼
 
